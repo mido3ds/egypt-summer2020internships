@@ -28,4 +28,4 @@ To contribute:
 |  [Open Learning Exchange](https://eg.indeed.com/job/virtual-systems-engineer-intern-f0bedc2fc2b24e7a) |   |  Present |  |
 |  [Silberkey Tech.](http://careers.silverkeytech.com/Job/Details/47ca0106-cc10-4771-9473-f056ab27b52c) |   |  Present |  |
 |  [Breadcrumbs](https://breadcrumbs.studio/careers/?job=nt87C4pWLYa4sik0sMCgm) |   |  Present | PHP |
-|  [Inova](https://inovaeg.com/jobs/#1559257655501-4be5d148-efce) |  |  Present |  |
+|  [Inova](https://inovaeg.com/jobs/#1559257655501-4be5d148-efce) |  |  Present | Advertised recently, but yet their website says it's 2019 internship. So ? |
