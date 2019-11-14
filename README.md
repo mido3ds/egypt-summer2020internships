@@ -20,8 +20,8 @@ To contribute:
 | Name  |  Location |  Application Period |  Notes |
 |---|---|---|---|
 |  [Robusta](https://apply.workable.com/robusta/j/3C74AE4FAD/) |  New Cairo City |  Present |  |
-|  [eSEED](https://eseed.net/careers/web-development-intern/) |  Dokki |  Present |  Web (php) |
-|  [eSEED](https://eseed.net/careers/front-end-development-intern/) |  Dokki |  Present | frontend |
+|  [eSEED](https://eseed.net/careers/web-development-intern/) |  Dokki |  Present |  Web (php)- form is broken!|
+|  [eSEED](https://eseed.net/careers/front-end-development-intern/) |  Dokki |  Present | frontend- form is broken! |
 |  [Lenmo](https://hire.withgoogle.com/public/jobs/lenmomobi/view/P_AAAAAAGAAATEfv9VYthtwS) |  New Cairo City |  Present | Data |
 |  [Levelset](https://levelset.applytojob.com/apply/221e112c6a59567756517e6e060f51077c0c66372c182f194a1e326f2224122c7f773b/Intern-Software-Engineer?sid=HqssXigOgaOX78a6M99fjZgWyFvXjnFm04v&source=INDE) |  Maadi |  Present |  |
 |  [Cyberforce](https://www.cyber-force.org/careers/career-details/#1.%20Junior%20Cybersecurity%20Engineer%20%5BInternship%5D) |   |  Present |  |
