@@ -29,6 +29,8 @@ To contribute:
 |  [Silberkey Tech.](http://careers.silverkeytech.com/Job/Details/47ca0106-cc10-4771-9473-f056ab27b52c) |   |  Present |  |
 |  [Breadcrumbs](https://breadcrumbs.studio/careers/?job=nt87C4pWLYa4sik0sMCgm) |   |  Present | PHP |
 |  [Inova](https://inovaeg.com/jobs/#1559257655501-4be5d148-efce) |  |  Advertised recently, but yet their website says it's 2019 internship. So ? |  |
+|  [Advanced Chemical Industries](https://wuzzuf.net/internship/246754-IT-System-Admin-Intern---Alexandria-Advanced-Chemical-Industries-Alexandria-Egypt?utm_source=wuzzuf&utm_medium=email&utm_campaign=Job%252BRecommendations+-+Weekly&utm_content=job8&utm_term=SnippetKeys&l=rje&t=rj&a=Recommended+Jobs+-+Nancy+B+-+March+5-+Text+%2F+Snippet-Keys+%2F+Recommended+Jobs+-+every+3+days&o=8) | Smouha, Alexandria |  Present | Sysadmin |
+|  [Wide Horizons](https://wuzzuf.net/internship/247596-ASP-NET-Developer---Alexandria-Internship-Wide-Horizons-Alexandria-Egypt?utm_source=wuzzuf&utm_medium=email&utm_campaign=Job%252BRecommendations+-+Weekly&utm_content=job4&utm_term=SnippetKeys&l=rje&t=rj&a=Recommended+Jobs+-+Nancy+B+-+March+5-+Text+%2F+Snippet-Keys+%2F+Recommended+Jobs+-+every+3+days&o=4) | Smouha, Alexandria |  Present | ASP.NET (fresh graduates) |
 
 ## AISEC worldwide opportunities
 
