@@ -29,3 +29,17 @@ To contribute:
 |  [Silberkey Tech.](http://careers.silverkeytech.com/Job/Details/47ca0106-cc10-4771-9473-f056ab27b52c) |   |  Present |  |
 |  [Breadcrumbs](https://breadcrumbs.studio/careers/?job=nt87C4pWLYa4sik0sMCgm) |   |  Present | PHP |
 |  [Inova](https://inovaeg.com/jobs/#1559257655501-4be5d148-efce) |  |  Present |  |
+
+## AISEC worldwide opportunities
+
+| Name  |  Location |  Application Period |  Notes |
+|---|---|---|---|
+|  [Recicla.Club](https://aiesec.org/opportunity/1219763?product=GE) |  Belo Horizonte, Brazil |  Present |  |
+|  [FXY BİLGİ TEKNOLOJİLERİ VE DİJİTAL PAZARLAMA TİC](https://aiesec.org/opportunity/1212633?product=GE) |  Adapazarı, Turkey |  Present |  |
+|  ["Sustainable Development Goal"](https://aiesec.org/opportunity/1220175?product=GV) |  Ludhiāna, Punjab, India |  Present |  |
+|  ["Sustainable Development Goal"](https://aiesec.org/opportunity/1221664?product=GV) |  Ludhiāna, Punjab, India |  Present |  |
+|  ["Sustainable Development Goal" -> Quality Education](https://aiesec.org/opportunity/1205084?product=GV) |  Tangier, Morocco |  Present |  |
+|  [VENTURE BRAZIL](https://aiesec.org/opportunity/1218710?product=GE) |  Salvador, Brazil |  Present |  |
+|  [Rentido Bilgi Teknolojileri Pazarlama ve Ticaret A.Ş.](https://aiesec.org/opportunity/1185451?product=GE) |  Antalya, Turkey |  1 Sep 2020 |  |
+|  [Rentido Bilgi Teknolojileri Pazarlama ve Ticaret A.Ş.](https://aiesec.org/opportunity/1185453?product=GE) |  Antalya, Turkey |  1 Nov 2020 |  |
+|  [Rentido Bilgi Teknolojileri Pazarlama ve Ticaret A.Ş.](https://aiesec.org/opportunity/1211938?product=GE) |  Antalya, Turkey |  1 Nov 2020 |  |
