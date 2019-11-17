@@ -46,3 +46,8 @@ To contribute:
 |  [Rentido Bilgi Teknolojileri Pazarlama ve Ticaret A.Ş.](https://aiesec.org/opportunity/1185451?product=GE) |  Antalya, Turkey |  1 Sep 2020 |  |
 |  [Rentido Bilgi Teknolojileri Pazarlama ve Ticaret A.Ş.](https://aiesec.org/opportunity/1185453?product=GE) |  Antalya, Turkey |  1 Nov 2020 |  |
 |  [Rentido Bilgi Teknolojileri Pazarlama ve Ticaret A.Ş.](https://aiesec.org/opportunity/1211938?product=GE) |  Antalya, Turkey |  1 Nov 2020 |  |
+
+## Remote
+| Name |  Application Period |  Notes |
+|---|---|---|---|
+|  [GroceriStar](https://angel.co/company/groceristar/jobs) |  Present | Unpaid |
