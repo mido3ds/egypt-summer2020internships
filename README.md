@@ -48,6 +48,13 @@ To contribute:
 |  [Rentido Bilgi Teknolojileri Pazarlama ve Ticaret A.Ş.](https://aiesec.org/opportunity/1211938?product=GE) |  Antalya, Turkey |  1 Nov 2020 |  |
 
 ## Remote
-| Name |  Application Period |  Notes |
-|---|---|---|
-|  [GroceriStar](https://angel.co/company/groceristar/jobs) |  Present | Unpaid |
+| Name | Notes |
+|---|---|
+| [GroceriStar](https://angel.co/company/groceristar/jobs) | |
+| [EGGY](https://angel.co/company/eggy/jobs/68202-frontend-developing-ui-ux) | |
+| [Tweeterham Marketing](https://angel.co/company/twitterham-inc-1/jobs/54166-developer) | |
+| [Relishly](https://angel.co/company/relishly/jobs/54075-data-engineer-internship) | |
+| [Skive it](https://angel.co/company/skive-it/jobs/23266-software-engineering-intern) | |
+| [Inovadors](https://angel.co/company/inovadors/jobs/37643-online-intern-software-engineer) | |
+| [Knobull](https://angel.co/company/knobull-1/jobs/24678-cse-student-ios-dev) | |
+| [BottleUp](https://angel.co/company/bottleup/jobs/50507-ios-developer-intern) | |
