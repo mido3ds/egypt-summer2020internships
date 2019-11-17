@@ -49,5 +49,5 @@ To contribute:
 
 ## Remote
 | Name |  Application Period |  Notes |
-|---|---|---|---|
+|---|---|---|
 |  [GroceriStar](https://angel.co/company/groceristar/jobs) |  Present | Unpaid |
