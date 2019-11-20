@@ -25,7 +25,6 @@ To contribute:
 |  [Lenmo](https://hire.withgoogle.com/public/jobs/lenmomobi/view/P_AAAAAAGAAATEfv9VYthtwS) |  New Cairo City |  Present | Data |
 |  [Levelset](https://levelset.applytojob.com/apply/221e112c6a59567756517e6e060f51077c0c66372c182f194a1e326f2224122c7f773b/Intern-Software-Engineer?sid=HqssXigOgaOX78a6M99fjZgWyFvXjnFm04v&source=INDE) |  Maadi |  Present |  |
 |  [Cyberforce](https://www.cyber-force.org/careers/career-details/#1.%20Junior%20Cybersecurity%20Engineer%20%5BInternship%5D) |   |  Present |  |
-|  [Open Learning Exchange](https://eg.indeed.com/job/virtual-systems-engineer-intern-f0bedc2fc2b24e7a) |   |  Present |  |
 |  [Silberkey Tech.](http://careers.silverkeytech.com/Job/Details/47ca0106-cc10-4771-9473-f056ab27b52c) |   |  Present |  |
 |  [Breadcrumbs](https://breadcrumbs.studio/careers/?job=nt87C4pWLYa4sik0sMCgm) |   |  Present | PHP |
 |  [Inova](https://inovaeg.com/jobs/#1559257655501-4be5d148-efce) |  |  Advertised recently, but yet their website says it's 2019 internship. So ? |  |
@@ -58,3 +57,4 @@ To contribute:
 | [Inovadors](https://angel.co/company/inovadors/jobs/37643-online-intern-software-engineer) | |
 | [Knobull](https://angel.co/company/knobull-1/jobs/24678-cse-student-ios-dev) | |
 | [BottleUp](https://angel.co/company/bottleup/jobs/50507-ios-developer-intern) | |
+|  [Open Learning Exchange](https://eg.indeed.com/job/virtual-systems-engineer-intern-f0bedc2fc2b24e7a) | |
