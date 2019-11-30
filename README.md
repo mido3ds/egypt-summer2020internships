@@ -32,6 +32,10 @@ To contribute:
 |  [Wide Horizons](https://wuzzuf.net/internship/247596-ASP-NET-Developer---Alexandria-Internship-Wide-Horizons-Alexandria-Egypt) | Smouha, Alexandria |  Present | ASP.NET (fresh graduates) |
 |  [Kaii Labs](https://www.linkedin.com/jobs/view/1569435607/) | Sheikh Zaid | Present | Wordpress-PHP knowledge required | 
 |  [Quality Assurance Intern - Appgain](https://wuzzuf.net/internship/248334-Quality-Assurance-Intern-Appgain-Giza-Egypt) | Dokki, Giza | Present | Graduate | 
+| [ElMnassa Innovation & Development](https://wuzzuf.net/internship/250869-Android-Developer---Internship-ElMnassa-Innovation-Development-Cairo-Egypt) | New Cairo, Cairo | Present | |
+| [Codista](https://wuzzuf.net/internship/250486-Flutter-Developer---Intern-Codista-Cairo-Egypt) |Cairo |  28th Nov'19 and 82th Jan'20 | |
+| [Appgain](https://wuzzuf.net/internship/250193-Back-End-Developer---Intern-Appgain-Giza-Egypt) | Dokki, Giza | Present | Graduate with finished/no army-service  | 
+| [Moallem](https://wuzzuf.net/internship/250733-iOS-Developer---Internship-Moallem-Cairo-Egypt) | Cairo | Present | IOS |
 
 ## AISEC worldwide opportunities
 
