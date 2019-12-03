@@ -36,6 +36,8 @@ To contribute:
 | [Codista](https://wuzzuf.net/internship/250486-Flutter-Developer---Intern-Codista-Cairo-Egypt) |Cairo |  28th Nov'19 and 82th Jan'20 | |
 | [Appgain](https://wuzzuf.net/internship/250193-Back-End-Developer---Intern-Appgain-Giza-Egypt) | Dokki, Giza | Present | Graduate with finished/no army-service  | 
 | [Moallem](https://wuzzuf.net/internship/250733-iOS-Developer---Internship-Moallem-Cairo-Egypt) | Cairo | Present | IOS |
+| [Codista](https://wuzzuf.net/internship/252867-QC-Tester---Intern-Codista-Cairo-Egypt) | New Cairo, Cairo | Present | Candidate must have ISTQB. |
+| [PayME](https://wuzzuf.net/internship/252833-Front-End-Developer-Angular-PayME-Giza-Egypt) | Dokki, Giza | Present | Angular |
 
 ## AISEC worldwide opportunities
 
