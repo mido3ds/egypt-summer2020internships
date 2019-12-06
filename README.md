@@ -39,6 +39,7 @@ To contribute:
 | [Codista](https://wuzzuf.net/internship/252867-QC-Tester---Intern-Codista-Cairo-Egypt) | New Cairo, Cairo | Present | Candidate must have ISTQB. |
 | [PayME](https://wuzzuf.net/internship/252833-Front-End-Developer-Angular-PayME-Giza-Egypt) | Dokki, Giza | Present | Angular |
 | [Vodafone](https://careers.vodafone.com/job/winter-internship-in-cairo-cairo-jid-31284) | | Winter | |
+| [Kaii Lab](https://wuzzuf.net/internship/253413-UI-Designer--amp--Developer---Intern-Kaii-Lab-Giza-Egypt) | Sheikh Zayed, Giza | Present | |
 
 ## AISEC worldwide opportunities
 
