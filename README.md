@@ -38,6 +38,7 @@ To contribute:
 | [Moallem](https://wuzzuf.net/internship/250733-iOS-Developer---Internship-Moallem-Cairo-Egypt) | Cairo | Present | IOS |
 | [Codista](https://wuzzuf.net/internship/252867-QC-Tester---Intern-Codista-Cairo-Egypt) | New Cairo, Cairo | Present | Candidate must have ISTQB. |
 | [PayME](https://wuzzuf.net/internship/252833-Front-End-Developer-Angular-PayME-Giza-Egypt) | Dokki, Giza | Present | Angular |
+| [Vodafone](https://careers.vodafone.com/job/winter-internship-in-cairo-cairo-jid-31284) | | Winter | |
 
 ## AISEC worldwide opportunities
 
