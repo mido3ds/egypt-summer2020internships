@@ -41,6 +41,7 @@ To contribute:
 | [Vodafone](https://careers.vodafone.com/job/winter-internship-in-cairo-cairo-jid-31284) | | Winter | |
 | [Kaii Lab](https://wuzzuf.net/internship/253413-UI-Designer--amp--Developer---Intern-Kaii-Lab-Giza-Egypt) | Sheikh Zayed, Giza | Present | |
 | [Magdsoft](https://wuzzuf.net/internship/255729-Software-Engineer---Intern-Magdsoft-Cairo-Egypt) | Nasr City, Cairo | Present | |
+| [P&G](https://www.pgcareers.com/job/-/-/1644/14487189) | Cairo | Present | |
 
 ## AISEC worldwide opportunities
 
