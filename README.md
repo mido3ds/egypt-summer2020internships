@@ -46,6 +46,9 @@ To contribute:
 | [Quenta International](https://wuzzuf.net/internship/257687-Web-Developer-Internship-Quenta-International-Cairo-Egypt) | Mokattam, Cairo | 1/1/2020 | Duration: 6 moths |
 | [Mashreq Arabia For Techno Inv](https://wuzzuf.net/internship/257314-Software-Development-Intern---Alexandria-Mashreq-Arabia-For-Techno-Inv-Alexandria-Egypt) | Smouha, Alexandria | time | notes |
 | [Inova LLC](https://wuzzuf.net/internship/257137-QA-Software-Engineer-Internship-Inova-LLC-Alexandria-Egypt) | Bolkly, Alexandria | Present | Duration: 3 months |
+| [IBM](https://www.linkedin.com/jobs/view/1655792657/) | Cairo | Present | |
+
+<!-- | [name](url) | place | Present | Noetes | -->
 
 ## AISEC worldwide opportunities
 
