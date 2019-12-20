@@ -42,6 +42,10 @@ To contribute:
 | [Kaii Lab](https://wuzzuf.net/internship/253413-UI-Designer--amp--Developer---Intern-Kaii-Lab-Giza-Egypt) | Sheikh Zayed, Giza | Present | |
 | [Magdsoft](https://wuzzuf.net/internship/255729-Software-Engineer---Intern-Magdsoft-Cairo-Egypt) | Nasr City, Cairo | Present | |
 | [P&G](https://www.pgcareers.com/job/-/-/1644/14487189) | Cairo | Present | |
+| [Sonamak](https://wuzzuf.net/internship/257333-PHP--amp--WordPress-Intern---Alexandria-Only-Sonamak-Alexandria-Egypt) | Alexandria | 1st Jan 2020 | Duration: 6 months internship then, 30 months job contract |
+| [Quenta International](https://wuzzuf.net/internship/257687-Web-Developer-Internship-Quenta-International-Cairo-Egypt) | Mokattam, Cairo | 1/1/2020 | Duration: 6 moths |
+| [Mashreq Arabia For Techno Inv](https://wuzzuf.net/internship/257314-Software-Development-Intern---Alexandria-Mashreq-Arabia-For-Techno-Inv-Alexandria-Egypt) | Smouha, Alexandria | time | notes |
+| [Inova LLC](https://wuzzuf.net/internship/257137-QA-Software-Engineer-Internship-Inova-LLC-Alexandria-Egypt) | Bolkly, Alexandria | Present | Duration: 3 months |
 
 ## AISEC worldwide opportunities
 
