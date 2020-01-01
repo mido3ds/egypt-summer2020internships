@@ -49,6 +49,7 @@ To contribute:
 | [IBM](https://www.linkedin.com/jobs/view/1655792657/) | Cairo | Present | |
 | [DELL](https://jobs.dell.com/job/cairo/digital-transformation-bootcamp/375/14612299) | Cairo | Present | |
 | [DELL](https://jobs.dell.com/job/cairo/vmware-students-workshop/375/14612295) | Cairo | Present | Workshop |
+| [Faggala](https://wuzzuf.net/internship/260466-PHP-Software-Developer---Intern-Faggala-com-Cairo-Egypt) | Downtown, Cairo | Winter | Fresh Graduate |
 
 <!-- | [name](url) | place | Present | Noetes | -->
 
