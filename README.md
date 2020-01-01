@@ -50,6 +50,7 @@ To contribute:
 | [DELL](https://jobs.dell.com/job/cairo/digital-transformation-bootcamp/375/14612299) | Cairo | Present | |
 | [DELL](https://jobs.dell.com/job/cairo/vmware-students-workshop/375/14612295) | Cairo | Present | Workshop |
 | [Faggala](https://wuzzuf.net/internship/260466-PHP-Software-Developer---Intern-Faggala-com-Cairo-Egypt) | Downtown, Cairo | Winter | Fresh Graduate |
+| [CI-Capital](https://www.cicapital.com/internship/undergraduates-internship-programme/) | Cairo | Summer/Winter | Any Major |
 
 <!-- | [name](url) | place | Present | Noetes | -->
 
