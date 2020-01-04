@@ -51,6 +51,8 @@ To contribute:
 | [DELL](https://jobs.dell.com/job/cairo/vmware-students-workshop/375/14612295) | Cairo | Present | Workshop |
 | [Faggala](https://wuzzuf.net/internship/260466-PHP-Software-Developer---Intern-Faggala-com-Cairo-Egypt) | Downtown, Cairo | Winter | Fresh Graduate |
 | [CI-Capital](https://www.cicapital.com/internship/undergraduates-internship-programme/) | Cairo | Summer/Winter | Any Major |
+| [Si-Vision](https://wuzzuf.net/internship/261200-CAD-Intern-Si-Vision-Cairo-Egypt) | Sheraton, Cairo | Winter |  |
+| [Glow Star](https://wuzzuf.net/internship/260291-Front-End-Java-Developer---Unpaid-Internship-Glow-Star-Cairo-Egypt) | Nasr City, Cairo | Present | Fresh graduates not students |
 
 <!-- | [name](url) | place | Present | Noetes | -->
 
