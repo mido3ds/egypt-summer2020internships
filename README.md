@@ -53,6 +53,7 @@ To contribute:
 | [CI-Capital](https://www.cicapital.com/internship/undergraduates-internship-programme/) | Cairo | Summer/Winter | Any Major |
 | [Si-Vision](https://wuzzuf.net/internship/261200-CAD-Intern-Si-Vision-Cairo-Egypt) | Sheraton, Cairo | Winter |  |
 | [Glow Star](https://wuzzuf.net/internship/260291-Front-End-Java-Developer---Unpaid-Internship-Glow-Star-Cairo-Egypt) | Nasr City, Cairo | Present | Fresh graduates not students |
+| [Microsoft](https://getpocket.com/redirect?url=https%3A%2F%2Fwww.surveygizmo.com%2Fs3%2F5361197%2FMicrosoft-Advanced-Technology-Lab-Cairo-Summer-Engineering-Program-2020) | Cairo | Present | |
 
 <!-- | [name](url) | place | Present | Noetes | -->
 
