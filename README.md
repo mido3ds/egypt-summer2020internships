@@ -54,8 +54,12 @@ To contribute:
 | [Si-Vision](https://wuzzuf.net/internship/261200-CAD-Intern-Si-Vision-Cairo-Egypt) | Sheraton, Cairo | Winter |  |
 | [Glow Star](https://wuzzuf.net/internship/260291-Front-End-Java-Developer---Unpaid-Internship-Glow-Star-Cairo-Egypt) | Nasr City, Cairo | Present | Fresh graduates not students |
 | [Microsoft](https://getpocket.com/redirect?url=https%3A%2F%2Fwww.surveygizmo.com%2Fs3%2F5361197%2FMicrosoft-Advanced-Technology-Lab-Cairo-Summer-Engineering-Program-2020) | Cairo | Present | |
+| [Internship-Mashreq-Arabia](https://wuzzuf.net/internship/262980-Unity-Game-Developer---Internship-Mashreq-Arabia-For-Techno-Inv-Alexandria-Egypt) | Alexandria | Present | Unity |
+| [YallaSa7el](https://wuzzuf.net/internship/262620-Back-End-Ruby-On-Rails-Developer---Intern-YallaSa7el-Cairo-Egypt) | New Cairo | Jan 22 |  |
+| [Tripolica](https://wuzzuf.net/internship/262180-WordPress-Developer--Internship-Tripaloca-Cairo-Egypt) | New Cairo | 12 Monthes |  |
+| [Enterpreware](https://wuzzuf.net/internship/261569-Software-Engineer---Internship-Entrepreware-Cairo-Egypt) | Maadi, Cairo | 1-3 Months | Fresh Graduate |
 
-<!-- | [name](url) | place | Present | Noetes | -->
+<!-- | [name](url) | place | Present | Notes | -->
 
 ## AISEC worldwide opportunities
 
