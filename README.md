@@ -58,6 +58,9 @@ To contribute:
 | [YallaSa7el](https://wuzzuf.net/internship/262620-Back-End-Ruby-On-Rails-Developer---Intern-YallaSa7el-Cairo-Egypt) | New Cairo | Jan 22 |  |
 | [Tripolica](https://wuzzuf.net/internship/262180-WordPress-Developer--Internship-Tripaloca-Cairo-Egypt) | New Cairo | 12 Monthes |  |
 | [Enterpreware](https://wuzzuf.net/internship/261569-Software-Engineer---Internship-Entrepreware-Cairo-Egypt) | Maadi, Cairo | 1-3 Months | Fresh Graduate |
+| [Alexandria For Programming](https://wuzzuf.net/internship/264358-VB-NET--amp--Desktop-Application-Intern-Alexandria-For-Programming-Alexandria-Egypt) | Bolkly, Alexandria | 22/1 | Desktop | 
+| [Teacher's Hub](https://wuzzuf.net/internship/264410-Wordpress-Developer-Teachers-Hub-Cairo-Egypt) | Maadi, Cairo | 30/1 |  |
+
 
 <!-- | [name](url) | place | Present | Notes | -->
 
