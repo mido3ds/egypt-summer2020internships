@@ -60,7 +60,9 @@ To contribute:
 | [Enterpreware](https://wuzzuf.net/internship/261569-Software-Engineer---Internship-Entrepreware-Cairo-Egypt) | Maadi, Cairo | 1-3 Months | Fresh Graduate |
 | [Alexandria For Programming](https://wuzzuf.net/internship/264358-VB-NET--amp--Desktop-Application-Intern-Alexandria-For-Programming-Alexandria-Egypt) | Bolkly, Alexandria | 22/1 | Desktop | 
 | [Teacher's Hub](https://wuzzuf.net/internship/264410-Wordpress-Developer-Teachers-Hub-Cairo-Egypt) | Maadi, Cairo | 30/1 |  |
-
+| [iHub](https://wuzzuf.net/internship/260215-Part-Time-Java-Developer-iHub-Cairo-Egypt) | Abbassia, Cairo | 1st Feb. 2020 | Java/VMWare |
+| [Seuqel Solutions](https://wuzzuf.net/internship/263725-Data-Analyst---SQL-Seuqel-Solutions-Cairo-Egypt) | Downtown, Cairo |  |  |
+| [VOC Apps](https://wuzzuf.net/internship/265914-Full-Stack-Developer---Intern-VOC-Apps-Cairo-Egypt?l=jp&t=rj&o=2) | Maadi, Cairo |  01-02-2020 | C# |
 
 <!-- | [name](url) | place | Present | Notes | -->
 
