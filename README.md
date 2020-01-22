@@ -63,7 +63,6 @@ To contribute:
 | [iHub](https://wuzzuf.net/internship/260215-Part-Time-Java-Developer-iHub-Cairo-Egypt) | Abbassia, Cairo | 1st Feb. 2020 | Java/VMWare |
 | [Seuqel Solutions](https://wuzzuf.net/internship/263725-Data-Analyst---SQL-Seuqel-Solutions-Cairo-Egypt) | Downtown, Cairo |  |  |
 | [VOC Apps](https://wuzzuf.net/internship/265914-Full-Stack-Developer---Intern-VOC-Apps-Cairo-Egypt?l=jp&t=rj&o=2) | Maadi, Cairo |  01-02-2020 | C# |
-
 | [Teacher's Hub](https://wuzzuf.net/internship/264411-Wordpress-Web-Developer-Teachers-Hub-Cairo-Egypt) | Maadi, Cairo | Present |  |
 | [Maarcare](https://wuzzuf.net/internship/264703-Data-Entry--amp--Database-Analyst---Internship-Maarcare-Cairo-Egypt) | Cairo | 26th Jan 2019 |  |
 | [Advertizer](https://wuzzuf.net/internship/259159-SEO-Intern-Advertizer-Cairo-Egypt) | Nasr City, Cairo |  | SEO |
