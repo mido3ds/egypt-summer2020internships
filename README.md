@@ -69,6 +69,7 @@ To contribute:
 | [Glow Star](https://wuzzuf.net/internship/260291-Front-End-Java-Developer---Unpaid-Internship-Glow-Star-Cairo-Egypt) | Nasr City, Cairo | Present | |
 | [Seuqel Solutions](https://wuzzuf.net/internship/266190-React-Native-App-Developer-Seuqel-Solutions-Cairo-Egypt) | Downtown, Cairo | Present | |
 | [Seuqel Solutions](https://wuzzuf.net/internship/265951-Ionic-Mobile-Application-Developer-Seuqel-Solutions-Cairo-Egypt) | Downtown, Cairo | Present | |
+| [Nexus Analytica](https://wuzzuf.net/internship/266507-Data-Analyst-Intern-Nexus-Analytica-Cairo-Egypt) | Cairo | Present |  |
 
 <!-- | [name](url) | place | Present | Notes | -->
 
