@@ -71,6 +71,7 @@ To contribute:
 | [Seuqel Solutions](https://wuzzuf.net/internship/265951-Ionic-Mobile-Application-Developer-Seuqel-Solutions-Cairo-Egypt) | Downtown, Cairo | Present | |
 | [Nexus Analytica](https://wuzzuf.net/internship/266507-Data-Analyst-Intern-Nexus-Analytica-Cairo-Egypt) | Cairo | Present |  |
 | [Masria Card](https://wuzzuf.net/internship/268466-IT-System-Operations-Specialist-Masria-Card-Cairo-Egypt) | New Cairo, Cairo | Present |  |
+| [DELL](https://jobs.dell.com/job/cairo/digital-transformation-bootcamp/375/14612299) | Cairo | 02/03/2020 | IOT |
 
 <!-- | [name](url) | place | Present | Notes | -->
 
