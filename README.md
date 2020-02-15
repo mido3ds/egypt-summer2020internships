@@ -72,6 +72,8 @@ To contribute:
 | [Nexus Analytica](https://wuzzuf.net/internship/266507-Data-Analyst-Intern-Nexus-Analytica-Cairo-Egypt) | Cairo | Present |  |
 | [Masria Card](https://wuzzuf.net/internship/268466-IT-System-Operations-Specialist-Masria-Card-Cairo-Egypt) | New Cairo, Cairo | Present |  |
 | [DELL](https://jobs.dell.com/job/cairo/digital-transformation-bootcamp/375/14612299) | Cairo | 02/03/2020 | IOT |
+| [Moallem](https://wuzzuf.net/internship/271611-iOS-Developer---Internship-Moallem-Cairo-Egypt) | Cairo | Present | IOS - Unpaid |
+| [nichepharma](https://wuzzuf.net/internship/272006-Mobile-App-Developer-nichepharma-Giza-Egypt) | Sheikh Zayed, Giza | Present | Mobile developer |
 
 <!-- | [name](url) | place | Present | Notes | -->
 
